@@ -13,9 +13,16 @@
 
 /* create header bar */
 .header-info {
-    background-color: gray ;
-} */
+    background-color: #19535f ;
+    color: #9c95dc;
+} 
+
+.page-links {
+    background-color: #19535f;
+    color: #9c95dc;
+}
 
 body {
-    background-color: aqua;
+    background-color: #f1e9db;
+    color: #170a1c;
 }
